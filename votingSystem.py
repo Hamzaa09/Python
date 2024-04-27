@@ -2,8 +2,8 @@ from statistics import mode
 import msvcrt,os
 
 
-list_Awards = ['tklo','Maklo']
-list_Candidates = ['Alo','Salo','L','10','15','S12','0','L87','13210','787']
+list_Awards = []
+list_Candidates = []
 list_voting = []
 
 
